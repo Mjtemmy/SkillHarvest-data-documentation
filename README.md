@@ -14,7 +14,6 @@
 This is my first attempt into this
 ## Data source
 
-
 The primary source of data used here is Data Sale.csv and this is open source data that can be freely downloaded from an open source as kaggle or FRED or any other data repository site.
 ## Tools used
 - Ms Excel for data cleaning[Download Here](https:/www.microsoft.com)
