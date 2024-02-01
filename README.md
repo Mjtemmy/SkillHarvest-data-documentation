@@ -1,8 +1,20 @@
 # SkillHarvest-data-documentation
 
+**Documentation Outline**
+
+- [Project overview](#project-overview)
+- [Data source](#data-source)
+- [Tools used](#tools-used)
+- [Data cleaning and Preparation](#data-cleaning-and-preparation)
+- [Data analysis](#data-analysis)
+- [Result/findings](#result-findings)
+
 ## Project overview
+
 This is my first attempt into this
 ## Data source
+
+
 The primary source of data used here is Data Sale.csv and this is open source data that can be freely downloaded from an open source as kaggle or FRED or any other data repository site.
 ## Tools used
 - Ms Excel for data cleaning[Download Here](https:/www.microsoft.com)
@@ -31,4 +43,17 @@ This is where you put the insight gotten from the analysis.
 2. It has a set back at another point due to a particular trend that was observed along the line of analysis.
 3. Customers segment with high lifetime value can be targeted for marketing efforts.
 ![](VB1.png_)
+
+**Mary is a peculiar treasure**
+
+*Mary is a peculiar treasure*
+
+😄
+
+🌻
+
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Date|Month|Location|
 
